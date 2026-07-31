@@ -1,12 +1,12 @@
 # 🏐 Voleibol
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1547347298-4074fc3086f0?w=1200" width="900">
+  <img src="https://cdn.pixabay.com/photo/2017/08/06/00/12/volleyball-2589562_1280.jpg" width="900">
 </p>
 
 ## 📖 Sobre o projeto
 
-Site desenvolvido em **HTML, CSS e JavaScript** com o objetivo de apresentar informações sobre o voleibol de forma moderna e interativa.
+Este projeto foi desenvolvido em **HTML, CSS e JavaScript** para apresentar informações sobre o voleibol de forma moderna e interativa.
 
 ---
 
@@ -18,45 +18,49 @@ Site desenvolvido em **HTML, CSS e JavaScript** com o objetivo de apresentar inf
 
 ---
 
-## 📸 Funcionalidades
+## 🏐 História do Voleibol
 
-### 🏐 História do Voleibol
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Volleyball_game.jpg" width="700">
+</p>
 
-<img src="https://images.unsplash.com/photo-1517649763962-0c623066013b?w=700">
-
-Conheça a origem e evolução do esporte.
-
----
-
-### 📜 Regras Básicas
-
-<img src="https://images.unsplash.com/photo-1521412644187-c49fa049e84d?w=700">
-
-Aprenda as principais regras do jogo.
+Conheça a origem do voleibol, criado em 1895 por William G. Morgan, e sua evolução até se tornar um dos esportes mais populares do mundo.
 
 ---
 
-### ⭐ Curiosidades
+## 📜 Regras Básicas
 
-<img src="https://images.unsplash.com/photo-1508098682722-e99c643e7485?w=700">
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2016/11/29/09/08/volleyball-1867616_1280.jpg" width="700">
+</p>
 
-Descubra fatos interessantes sobre o voleibol.
+Aprenda as principais regras do esporte, como número de jogadores, sistema de pontuação, rodízio e fundamentos.
 
 ---
 
-### 🎯 Interatividade
+## ⭐ Curiosidades
 
-Botão em JavaScript que exibe mensagens ao usuário.
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2016/03/27/19/32/volleyball-1281584_1280.jpg" width="700">
+</p>
+
+Descubra curiosidades sobre campeonatos, atletas famosos e a evolução do voleibol ao longo dos anos.
+
+---
+
+## 🎯 Interatividade
+
+O projeto possui um botão em JavaScript que exibe uma mensagem ao usuário.
 
 ---
 
 ## 💻 Como executar
 
-1. Baixe o projeto.
-2. Abra o arquivo `index.html`.
+1. Faça o download do projeto.
+2. Abra o arquivo **index.html** em qualquer navegador.
 
 ---
 
-## 👩‍💻 Autor
+## 👨‍💻 Autor
 
 **Seu Nome**
