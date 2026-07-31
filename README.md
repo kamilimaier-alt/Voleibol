@@ -1,16 +1,42 @@
 # 🏐 Voleibol
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1547347298-4074fc3086f0?w=1200" width="900">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500" alt="GIF de Voleibol">
 </p>
 
-## 📖 Sobre o projeto
+<h1 align="center">🏐 Projeto Voleibol</h1>
 
-Site desenvolvido em **HTML, CSS e JavaScript** com o objetivo de apresentar informações sobre o voleibol de forma moderna e interativa.
+<p align="center">
+  Um site desenvolvido em <strong>HTML, CSS e JavaScript</strong> para apresentar informações sobre o voleibol de forma moderna e interativa.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
 ---
 
-## 🚀 Tecnologias
+## 📖 Sobre o Projeto
+
+Este projeto apresenta informações sobre o voleibol, incluindo sua história, regras, curiosidades e uma interação feita com JavaScript.
+
+---
+
+## ✨ Funcionalidades
+
+✅ História do voleibol
+
+✅ Regras básicas
+
+✅ Curiosidades
+
+✅ Botão interativo
+
+---
+
+## 🚀 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -18,45 +44,31 @@ Site desenvolvido em **HTML, CSS e JavaScript** com o objetivo de apresentar inf
 
 ---
 
-## 📸 Funcionalidades
+## ▶️ Como executar
 
-### 🏐 História do Voleibol
-
-<img src="https://images.unsplash.com/photo-1517649763962-0c623066013b?w=700">
-
-Conheça a origem e evolução do esporte.
+1. Faça o download ou clone este repositório.
+2. Abra o arquivo **index.html** em seu navegador.
 
 ---
 
-### 📜 Regras Básicas
+## 📂 Estrutura do Projeto
 
-<img src="https://images.unsplash.com/photo-1521412644187-c49fa049e84d?w=700">
-
-Aprenda as principais regras do jogo.
-
----
-
-### ⭐ Curiosidades
-
-<img src="https://images.unsplash.com/photo-1508098682722-e99c643e7485?w=700">
-
-Descubra fatos interessantes sobre o voleibol.
+```text
+📁 Voleibol
+ ├── 📄 index.html
+ ├── 🎨 style.css
+ ├── ⚙️ script.js
+ └── 📘 README.md
+```
 
 ---
 
-### 🎯 Interatividade
-
-Botão em JavaScript que exibe mensagens ao usuário.
-
----
-
-## 💻 Como executar
-
-1. Baixe o projeto.
-2. Abra o arquivo `index.html`.
-
----
-
-## 👩‍💻 Autor
+## 💻 Autor
 
 **Seu Nome**
+
+---
+
+<p align="center">
+⭐ Se você gostou deste projeto, deixe uma estrela no repositório!
+</p>
