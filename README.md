@@ -1,74 +1,56 @@
-# 🏐 Voleibol
+# 🏐 Projeto Voleibol
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500" alt="GIF de Voleibol">
-</p>
+Este é um projeto desenvolvido utilizando **HTML, CSS e JavaScript** com o objetivo de apresentar informações sobre o voleibol de forma interativa.
 
-<h1 align="center">🏐 Projeto Voleibol</h1>
+## 📖 Sobre o projeto
 
-<p align="center">
-  Um site desenvolvido em <strong>HTML, CSS e JavaScript</strong> para apresentar informações sobre o voleibol de forma moderna e interativa.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
----
-
-## 📖 Sobre o Projeto
-
-Este projeto apresenta informações sobre o voleibol, incluindo sua história, regras, curiosidades e uma interação feita com JavaScript.
-
----
+O site apresenta informações sobre a história, regras e curiosidades do voleibol. Além disso, conta com uma galeria de imagens e recursos de interação para tornar a navegação mais dinâmica.
 
 ## ✨ Funcionalidades
 
-✅ História do voleibol
+- 🏐 Página inicial com design responsivo.
+- 📖 História completa do voleibol.
+- 📜 Regras básicas do esporte.
+- ⭐ Curiosidades sobre o voleibol.
+- 🖼️ Galeria de imagens exibida ao clicar no botão **Interagir**.
+- 🎨 Interface moderna com efeitos de hover e animações.
 
-✅ Regras básicas
-
-✅ Curiosidades
-
-✅ Botão interativo
-
----
-
-## 🚀 Tecnologias Utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 
----
-
-## ▶️ Como executar
-
-1. Faça o download ou clone este repositório.
-2. Abra o arquivo **index.html** em seu navegador.
-
----
-
-## 📂 Estrutura do Projeto
+## 📂 Estrutura do projeto
 
 ```text
-📁 Voleibol
- ├── 📄 index.html
- ├── 🎨 style.css
- ├── ⚙️ script.js
- └── 📘 README.md
+📁 Projeto-Voleibol
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+└── 📁 img
+    │── volei1.jpg
+    │── volei2.jpg
+    │── volei3.jpg
+    └── volei4.jpg
 ```
 
----
+## 🚀 Como executar
 
-## 💻 Autor
+1. Faça o download ou clone este repositório.
+2. Abra o arquivo `index.html` em seu navegador.
 
-**Seu Nome**
+Ou acesse a versão publicada pelo GitHub Pages.
 
----
+## 📸 Demonstração
 
-<p align="center">
-⭐ Se você gostou deste projeto, deixe uma estrela no repositório!
-</p>
+Adicione aqui uma captura de tela do projeto.
+
+Exemplo:
+
+![Página inicial](img/screenshot.png)
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Kamili Maier**.
