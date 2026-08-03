@@ -1,9 +1,7 @@
-function mensagem() {
-    const resposta = confirm("🏐 Você gosta de voleibol?");
+function abrirHistoria(){
+    document.getElementById("janelaHistoria").style.display = "block";
+}
 
-    if (resposta) {
-        alert("Que legal! Continue explorando o projeto! 😄");
-    } else {
-        alert("Espero que este projeto desperte seu interesse pelo voleibol! 🏐");
-    }
+function fecharHistoria(){
+    document.getElementById("janelaHistoria").style.display = "none";
 }
